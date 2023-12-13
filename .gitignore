@@ -1,0 +1,10 @@
+*.txt
+*.pkl
+/data/
+/checkpoints/
+/epochs/
+/results/
+/batch_size/
+/recluster/
+/__pycache__/
+
